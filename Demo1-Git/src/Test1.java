@@ -4,5 +4,6 @@ public class Test1 {
 		// gfcfvtyvgygy
 		fuck
 			shit
+		fuck2
 	}
 }
